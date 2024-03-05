@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.example.splashscreen_collaboration" />
+                  <option name="mobileSdkAppId" value="1:883332671682:android:5c65af737ab5a56b68735b" />
+                  <option name="projectId" value="splashscreencollab" />
+                  <option name="projectNumber" value="883332671682" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
