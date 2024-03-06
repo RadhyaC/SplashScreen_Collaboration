@@ -37,8 +37,8 @@ class LoginActivity : AppCompatActivity() {
         }
 
         tvRedirectSignUp.setOnClickListener {
-//            val intent = Intent(this, SignUpActivity::class.java)
-//            startActivity(intent)
+            val intent = Intent(this, RegisterActivity::class.java)
+            startActivity(intent)
             // using finish() to end the activity
             finish()
         }
